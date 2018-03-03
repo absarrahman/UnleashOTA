@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <oneplus3>
+            <Filename>Unleash-OS-20180303-oneplus3-Official</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description="">https://drive.google.com/open?id=1Kv74yJ4K7qC5e4ZNAFeV-HfXuJDf0wcx</RomUrl>
+            <GAppsUrl
+                id="gapps"
+                title=""
+                description="">https://sourceforge.net/projects/unofficial-opengapps-8-1/files/arm64/</GAppsUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description="">https://raw.githubusercontent.com/Unleash-OS/UnleashChangelog/oreo/CHANGELOG.mkdn</ChangelogUrl>
+            <PaypalUrl
+                id="donation"
+                title=""
+                description="">https://www.paypal.me/vhermann</PaypalUrl>
+        </oneplus3>
+    </Stable>
+</SlimOTA>
