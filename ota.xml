@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <oneplus3>
-            <Filename>Unleash-OS-20180228-oneplus3-Official</Filename>
+            <Filename>Unleash-OS-20180304-oneplus3-Test</Filename>
             <RomUrl
                 id="rom"
                 title=""
-                description="">https://sourceforge.net/projects/unleash/files/oneplus3/Unleash-OS-20180228-oneplus3-Official.zip/download</RomUrl>
+                description="">https://drive.google.com/open?id=1ULnGxGOPgCDxVzpn62ei7EL1W0CcxREb</RomUrl>
             <GAppsUrl
                 id="gapps"
                 title=""
