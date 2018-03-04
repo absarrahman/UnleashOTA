@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <A6020>
-            <Filename>Unleash-OS-20180228-oneplus3-Official</Filename>
+            <Filename>Unleash-OS-20180304-A6020-Official</Filename>
             <RomUrl
                 id="rom"
                 title=""
