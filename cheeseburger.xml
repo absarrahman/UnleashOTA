@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <cheeseburger>
+            <Filename>Unleash-OS-20180304-cheeseburger-Official</Filename>
+            <RomUrl
+                id="rom"
+                title=""
+                description=""></RomUrl>
+            <GAppsUrl
+                id="gapps"
+                title=""
+                description="">opengapps.org</GAppsUrl>
+            <ChangelogUrl
+                id="changelog"
+                title=""
+                description="">https://raw.githubusercontent.com/Unleash-OS/UnleashChangelog/oreo/CHANGELOG.mkdn</ChangelogUrl>
+            <PaypalUrl
+                id="donation"
+                title=""
+                description="https://www.paypal.me/vhermann"></PaypalUrl>
+        </cheeseburger>
+    </Stable>
+</SlimOTA>
