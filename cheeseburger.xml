@@ -6,11 +6,11 @@
             <RomUrl
                 id="rom"
                 title=""
-                description=""></RomUrl>
+                description="">https://drive.google.com/file/d/1Tyc5waFBfANrJnOWCeSBjovdzkxdSjoz</RomUrl>
             <GAppsUrl
                 id="gapps"
                 title=""
-                description="">opengapps.org</GAppsUrl>
+                description="">https://sourceforge.net/projects/unofficial-opengapps-8-1/files/arm64/</GAppsUrl>
             <ChangelogUrl
                 id="changelog"
                 title=""
@@ -18,7 +18,7 @@
             <PaypalUrl
                 id="donation"
                 title=""
-                description="https://www.paypal.me/vhermann"></PaypalUrl>
+                description="">https://www.paypal.me/vhermann</PaypalUrl>
         </cheeseburger>
     </Stable>
 </SlimOTA>
