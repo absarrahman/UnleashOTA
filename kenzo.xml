@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd"> 
     <Stable> 
         <kenzo> 
-            <Filename>Unleash-OS-20180304-kenzo-Official.zip</Filename> 
+            <Filename>Unleash-OS-20180305-kenzo-Official.zip</Filename> 
             <RomUrl 
                 id="rom" 
                 title="" 
