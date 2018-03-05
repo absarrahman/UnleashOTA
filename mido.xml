@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd"> 
     <Stable> 
         <mido> 
-            <Filename>Unleash-OS-20180303-mido-Official</Filename> 
+            <Filename>Unleash-OS-20180304-mido-Official</Filename> 
             <RomUrl 
                 id="rom" 
                 title="" 
-                description="">https://drive.google.com/open?id=1Rx-iKcrB0pqyjK-Uzzx5CrC-1fZ68tab</RomUrl> 
+                description="">https://drive.google.com/file/d/1qorfzbfv1OH7a0GpIjmaGAq1Ja_My0bj/view</RomUrl> 
             <GAppsUrl 
                 id="gapps" 
                 title="" 
-                description="">https://sourceforge.net/projects/unofficial-opengapps-8-1/files/arm64/</GAppsUrl> 
+                description="">opengapps.org</GAppsUrl> 
             <ChangelogUrl 
                 id="changelog" 
                 title="" 
@@ -19,6 +19,6 @@
                 id="donation" 
                 title="" 
                 description="">https://www.paypal.me/vhermann</PaypalUrl> 
-        <mido>
+        </mido>
     </Stable>
 </SlimOTA>
