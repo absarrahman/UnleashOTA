@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd"> 
     <Stable> 
         <kenzo> 
-            <Filename>Unleash-OS-20180304-kenzo-Official.zip</Filename> 
+            <Filename>Unleash-OS-20180305-kenzo-Official</Filename> 
             <RomUrl 
                 id="rom" 
                 title="" 
-                description="">https://www.androidfilehost.com/?fid=962187416754465628</RomUrl> 
+                description="">http://qc4.androidfilehost.com/dl/rkedOiNS6MgpJhBTmtC3DQ/1520466825/962187416754465740/Unleash-OS-20180305-kenzo-Official.zip</RomUrl> 
             <GAppsUrl 
                 id="gapps" 
                 title="" 
@@ -19,6 +19,6 @@
                 id="donation" 
                 title="" 
                 description="">https://www.paypal.me/vhermann</PaypalUrl> 
-        <kenzo>
+        </kenzo>
     </Stable>
 </SlimOTA>
